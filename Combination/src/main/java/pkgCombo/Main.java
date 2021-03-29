@@ -4,7 +4,7 @@ import java.util.Iterator;
 
 import org.apache.commons.math3.util.CombinatoricsUtils;
 
-public class Main {
+public class Main { 
 
 	public static void main(String[] args) {
 		
